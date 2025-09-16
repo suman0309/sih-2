@@ -1,0 +1,19 @@
+{
+  "odia": {
+    "rice": "ଚାଉଳ",
+    "wheat": "ଗହମ",
+    "irrigation": "ଜଳସେଚନ",
+    "fertilizer": "ସାର",
+    "pest_control": "କୀଟନାଶକ",
+    "soil_health": "ମାଟିର ସ୍ୱାସ୍ଥ୍ୟ",
+    "weather_forecast": "ପାଣିପାଗ ପୂର୍ବାନୁମାନ"
+  },
+  "hindi": {
+    "rice": "चावल",
+    "wheat": "गेहूं",
+    "irrigation": "सिंचाई",
+    "fertilizer": "उर्वरक"
+  }
+}
+
+
